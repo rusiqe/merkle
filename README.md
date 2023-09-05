@@ -146,4 +146,4 @@ Merkle Proof for alice@example.com
 ]
 ```
 
-**Fun check:** Change emailToProve and you will not get the proof.  
+**Fun check:** Change the emailToProve variable and you will not get the proof.  
